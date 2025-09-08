@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "underscore": "^1.10.2",
+    "is": "3.3.0"
+  }
+}
